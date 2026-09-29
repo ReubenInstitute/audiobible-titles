@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: audiobible-titles
+Source: https://github.com/ReubenInstitute/audiobible-titles
+
+Files: *
+Copyright: 2026 Reuben Institute
+License: none
+ Parashah and psalm titles in the DarkKnox2 voice. No license claimed.

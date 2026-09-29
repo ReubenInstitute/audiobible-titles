@@ -1,0 +1,7 @@
+audiobible-titles (0.5) unstable; urgency=medium
+
+  * Switch packaging from packaging/deb/build.sh (plain dpkg-deb --build,
+    which failed with "control directory has bad permissions 700") to a
+    debian/bootstrap.py pipeline matching the other audiobible-* repos.
+
+ -- Reuben Institute <reubeninstitute@gmail.com>  Tue, 29 Sep 2026 15:30:00 +0300
